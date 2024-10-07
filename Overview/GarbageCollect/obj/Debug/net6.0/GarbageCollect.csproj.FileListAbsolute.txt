@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.exe
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.deps.json
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.runtimeconfig.json
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.dll
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.pdb
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfo.cs
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.dll
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\refint\GarbageCollect.dll
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
+C:\Users\HP\Downloads\Start\Start\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll

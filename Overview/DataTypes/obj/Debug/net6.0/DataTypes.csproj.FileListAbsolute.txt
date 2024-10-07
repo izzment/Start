@@ -1,0 +1,15 @@
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Users\HP\Downloads\Start\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

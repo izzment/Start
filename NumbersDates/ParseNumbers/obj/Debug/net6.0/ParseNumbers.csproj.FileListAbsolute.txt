@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.exe
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.deps.json
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.runtimeconfig.json
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.dll
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\bin\Debug\net6.0\ParseNumbers.pdb
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.AssemblyInfo.cs
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.dll
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\refint\ParseNumbers.dll
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.pdb
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ParseNumbers.genruntimeconfig.cache
+C:\Users\HP\Desktop\Start\NumbersDates\ParseNumbers\obj\Debug\net6.0\ref\ParseNumbers.dll

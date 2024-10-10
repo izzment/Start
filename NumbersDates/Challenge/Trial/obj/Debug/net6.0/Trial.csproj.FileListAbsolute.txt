@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\bin\Debug\net6.0\Trial.exe
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\bin\Debug\net6.0\Trial.deps.json
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\bin\Debug\net6.0\Trial.runtimeconfig.json
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\bin\Debug\net6.0\Trial.dll
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\bin\Debug\net6.0\Trial.pdb
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.AssemblyInfo.cs
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.dll
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\refint\Trial.dll
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.pdb
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\Trial.genruntimeconfig.cache
+C:\Users\HP\Desktop\Start\NumbersDates\Challenge\Trial\obj\Debug\net6.0\ref\Trial.dll

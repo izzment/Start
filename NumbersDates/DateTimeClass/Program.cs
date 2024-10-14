@@ -23,10 +23,14 @@ Console.WriteLine(today.DayOfYear);
 // TODO: Dates also have methods to change their values
 now = now.AddDays(6);
 now = now.AddHours(12);
-// now = now.Add
-
+now = now.AddMonths(1);
+Console.WriteLine(now);
 // TODO: The TimeSpan class represents a duration of time
-// DateTime AprilFools = new DateTime(now.Year, 4, 1);
-// DateTime NewYears = new DateTime(now.Year, 1, 1);
+DateTime AprilFools = new DateTime(now.Year, 4, 1);
+DateTime NewYears = new DateTime(now.Year, 1, 1);
+TimeSpan interval = AprilFools - NewYears;
+Console.WriteLine(interval);
 
 // TODO: Dates can be compared using regular operators
+Console.WriteLine($"{NewYears < AprilFools}");
+Console.WriteLine($"{NewYears > AprilFools}");

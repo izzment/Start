@@ -34,10 +34,4 @@ if(!Directory.Exists(dirname)){
             sw.WriteLine($"There are {docTotal} word documents, {excelTotal} excel documents, and {pptTotal} powerpoint documents in this directory.");
         }
     }
-    try {
-        FileInfo fi = new FileInfo(filename);
-        Console.WriteLine($"{fi.Directory}");
-    } catch (Exception e){
-        Console.WriteLine($"Exception: {e}");
-    }
 }

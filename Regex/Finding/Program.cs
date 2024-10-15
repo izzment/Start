@@ -15,7 +15,7 @@ Console.WriteLine(CapWords.IsMatch(teststr2));
 // case-insensitive searches
 Regex NoCase = new Regex(@"fox", RegexOptions.IgnoreCase);
 Console.WriteLine(NoCase.IsMatch(teststr1));
-
+ 
 // Use the Match and Matches methods to get information about
 // specific Regex matches for a given pattern
 Match m = CapWords.Match(teststr1);

@@ -3,7 +3,7 @@
 using System.Text.RegularExpressions;
 using System.Diagnostics;
 
-const int MAX_REGEX_TIME = 1000;
+const int MAX_REGEX_TIME = 10000;
 const string thestr = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
 
 // Use a Stopwatch to show elapsed time

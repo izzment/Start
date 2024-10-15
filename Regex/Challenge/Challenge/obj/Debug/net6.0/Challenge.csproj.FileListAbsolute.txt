@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\bin\Debug\net6.0\Challenge.exe
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\bin\Debug\net6.0\Challenge.deps.json
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\bin\Debug\net6.0\Challenge.dll
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\bin\Debug\net6.0\Challenge.pdb
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.dll
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\refint\Challenge.dll
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.pdb
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
+C:\Users\HP\Desktop\Start\Regex\Challenge\Challenge\obj\Debug\net6.0\ref\Challenge.dll
